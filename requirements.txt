@@ -1,0 +1,11 @@
+numpy<2.0.0
+opencv-python>=4.5.0
+mediapipe>=0.10.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+joblib>=1.2.0
+pyparsing==2.4.7
+httplib2==0.20.4
+SpeechRecognition>=3.10.0
+sounddevice>=0.4.6
+soundfile>=0.12.0
